@@ -78,10 +78,8 @@ I believe in **learning by building**, not just watching tutorials.
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/kumari-pratibha-here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumari-pratibha-here" height="30" width="40" /></a>
-<a href="mailto:kp939331@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="kp939331" height="30" width="40" /></a>
-</p>
+- **LinkedIn:** [kumari-pratibha-here](https://www.linkedin.com/in/kumari-pratibha-here)
+- **Gmail:** [kp939331@gmail.com](mailto:kp939331@gmail.com)
 
 ---
 
