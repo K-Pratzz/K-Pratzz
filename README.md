@@ -4,42 +4,72 @@
 <img src="https://komarev.com/ghpvc/?username=K-Pratzz&label=Profile%20views&color=0e75b6&style=flat" alt="KumariPratibha" />
 </p>
 
-### 💫 About Me
-I am a passionate **Frontend Developer** and **AI Enthusiast** focused on building intelligent, user-centric web applications. With a strong foundation in **React** and **Modern JavaScript**, I bridge the gap between complex **Machine Learning** models and intuitive user interfaces.
+---
 
-- 🔭 I’m currently working on advanced **Deep Learning** and **NLP** projects.
-- 🌱 I’m deepening my knowledge in **Large Language Models (LLMs)** and **Scalable React Architecture**.
-- 💬 Ask me about **React, Python, or SQL**.
-- 📫 Reach me at: [ https://www.linkedin.com/in/kumari-pratibha-here?utm_source=share_via&utm_content=profile&utm_medium=member_android ]
+## 💫 About Me
+
+I am a **Machine Learning learner** and **Frontend Developer** focused on understanding how models actually work and applying them to real-world problems.
+
+I believe in **learning by building**, not just watching tutorials.
+
+- 🤖 Currently focused on **Machine Learning fundamentals**
+- 📊 Practicing **EDA, PCA, and model optimization**
+- 🧠 Learning how algorithms like **Gradient Descent** work internally
+- 🔍 Exploring **Ensemble Techniques** and model improvement
+- 🚀 Moving towards **Deep Learning & NLP projects**
 
 ---
 
-### 🛠 Tech Stack
+## 🧠 What I’m Learning Deeply
 
-**Frontend & Logic**
+- 📌 **EDA (Exploratory Data Analysis)** – understanding data patterns  
+- 📌 **PCA (Dimensionality Reduction)** – simplifying complex data  
+- 📌 **Gradient Descent** – how models actually learn  
+- 📌 **ML Algorithms** – Linear Regression, Logistic Regression, Decision Trees  
+- 📌 **Ensemble Methods** – Random Forest, Boosting basics  
+- 📌 **NLP using ML** – text classification, preprocessing  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux)](https://skillicons.dev)
 
-**Machine Learning & Data**
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,mysql)](https://skillicons.dev)
+**Machine Learning**
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib)](https://skillicons.dev)
 
-**Tools & DevOps**
+**Tools**
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
-### 📊 GitHub Statistics
+## 📂 Projects
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Pratzz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Pratzz&layout=compact&theme=transparent" />
-</p>
+*(Actively building and improving projects)*
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Pratzz&theme=transparent" alt="streak stats" />
-</p>
+- 🔹 Movie Review Analyzer  
+- 🔹 Identical Question pair detector
+- 🔹 Dogs vs Cats Classifier
+- 🔹 More projects coming...  
+
+---
+
+## 📈 Current Focus
+
+- Build **strong ML fundamentals**
+- Create **real, explainable projects**
+- Improve **problem-solving (DSA basics)**
+- Stay consistent and disciplined
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/kumari-pratibha-here  
 
 ---
 
 <p align="center">
-  "The best way to predict the future is to invent it."
+  "Don't chase hype. Build real understanding."
 </p>
