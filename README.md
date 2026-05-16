@@ -32,7 +32,7 @@ I am a **Machine Learning learner** and **Frontend Developer** focused on unders
 ## 🛠 Tech Stack
 
 **Frontend**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 **Machine Learning**  
 [![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib)](https://skillicons.dev)
