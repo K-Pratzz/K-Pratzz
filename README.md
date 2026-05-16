@@ -66,11 +66,6 @@ I believe in **learning by building**, not just watching tutorials.
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K-Pratzz&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-Pratzz&layout=compact&theme=transparent" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Pratzz&theme=transparent" alt="streak stats" />
 </p>
 
