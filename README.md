@@ -1,83 +1,64 @@
-# Hi there, I'm Kumari Pratibha 👋
+<div align="center">
+  <h1>Hi 👋, I'm Kumari Pratibha</h1>
+  <h3>Aspiring NLP Engineer & Deep Learning Enthusiast</h3>
+</div>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=K-Pratzz&label=Profile%20views&color=0e75b6&style=flat" alt="KumariPratibha" />
-</p>
+<br>
 
----
+### About Me
 
-## 💫 About Me
+I am a **Computer Science student** with a strong focus on **Artificial Intelligence** and **Machine Learning**. Passionate about building intelligent systems that solve real-world problems using Deep Learning and Natural Language Processing.
 
-I am a **Machine Learning learner** and **Frontend Developer** focused on understanding how models actually work and applying them to real-world problems.
-
-I believe in **learning by building**, not just watching tutorials.
-
-- 🤖 Currently focused on **Machine Learning fundamentals**
-- 📊 Practicing **EDA, PCA, and model optimization**
-- 🧠 Learning how algorithms like **Gradient Descent** work internally
-- 🔍 Exploring **Ensemble Techniques** and model improvement
-- 🚀 Moving towards **Deep Learning & NLP projects**
+Currently exploring **Transformers**, **Large Language Models (LLMs)**, and **MLOps** to bridge the gap between research and production-ready AI solutions.
 
 ---
 
-## 🧠 What I’m Learning Deeply
+### 🧠 Technical Expertise
 
-- 📌 **EDA (Exploratory Data Analysis)** – understanding data patterns  
-- 📌 **PCA (Dimensionality Reduction)** – simplifying complex data  
-- 📌 **Gradient Descent** – how models actually learn  
-- 📌 **ML Algorithms** – Linear Regression, Logistic Regression, Decision Trees  
-- 📌 **Ensemble Methods** – Random Forest, Boosting basics  
-- 📌 **NLP using ML** – text classification, preprocessing  
+**Core Areas:**
+- Deep Learning (CNNs, RNNs, LSTMs, Transformers)
+- Natural Language Processing (NLP)
+- Machine Learning & Statistical Modeling
+- Computer Vision Basics
 
----
+**Tools & Frameworks:**
+- **Python** • PyTorch • TensorFlow • Keras
+- Hugging Face Transformers
+- Scikit-learn • NumPy • Pandas • Matplotlib
+- OpenCV
 
-## 🛠 Tech Stack
-
-**Frontend**
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux)](https://skillicons.dev)
-
-**Machine Learning**
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib)](https://skillicons.dev)
-
-**Tools**
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+**Other Skills:**
+- Data Structures & Algorithms
+- Full Stack Web Development (React.js)
+- Git & GitHub
+- Model Deployment & Experiment Tracking
 
 ---
 
-## 📂 Projects
-
-*(Actively building and improving projects)*
-
-- 🔹 Movie Review Analyzer  
-- 🔹 Identical Question pair detector
-- 🔹 Dogs vs Cats Classifier
-- 🔹 More projects coming...  
+### 🧪 Currently Learning
+- Advanced Deep Learning Architectures
+- Large Language Models (LLMs) & Fine-tuning
+- RAG (Retrieval Augmented Generation)
+- MLOps & Production ML Pipelines
 
 ---
 
-## 📈 Current Focus
+### 🚀 Projects & Learning Journey
 
-- Build **strong ML fundamentals**
-- Create **real, explainable projects**
-- Improve **problem-solving (DSA basics)**
-- Stay consistent and disciplined
+- Building end-to-end **NLP & Deep Learning** projects
+- Modern **React Portfolio** showcasing my technical journey
+- Actively working on real-world AI applications
 
----
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-Pratzz&theme=transparent" alt="streak stats" />
-</p>
+*(More AI/ML projects coming soon...)*
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
-- **LinkedIn:** [kumari-pratibha-here](https://www.linkedin.com/in/kumari-pratibha-here)
-- **Gmail:** [kp939331@gmail.com](mailto:kp939331@gmail.com)
+- **Email**: kp93331@gmail.com (mailto:kp939331@gmail.com)
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/kumari-pratibha-here)
+- **GitHub**: [@K-Pratzz](https://github.com/K-Pratzz)
 
 ---
 
-<p align="center">
-  "Don't chase hype. Build real understanding."
-</p>
+**"Turning data into intelligence, one model at a time."**
